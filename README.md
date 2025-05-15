@@ -1,4 +1,4 @@
-# Microstructure Evolution
+# exCaking for Polycrystal Diffraction Strain Analysis
 ![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/logo.png)
 
 ## Dependencies
@@ -6,3 +6,5 @@
 
 ## Installation
 Download 'reference.p', 'reconstruct.p' and 'microstructure.p' to your project folder.
+
+/myProjectFolder$
