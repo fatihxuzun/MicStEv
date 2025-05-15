@@ -1,4 +1,4 @@
-# exCaking for Polycrystal Diffraction Strain Analysis
+# Microstructure Evolution
 ![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/logo.png)
 
 ## Dependencies
