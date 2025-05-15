@@ -1,4 +1,4 @@
-# MicStEv for Microstructure Evolution from Inverse Pole Figure Images
+# MicStEv for Microstructure Evolution
 ![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/MicStEv_logo.png)
 
 ## Dependencies
