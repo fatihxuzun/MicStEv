@@ -1,5 +1,5 @@
 # exCaking for Polycrystal Diffraction Strain Analysis
-![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/log.png)
+![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/MicStEv_logo.png)
 
 ## Dependencies
 * MATLAB R2024b
