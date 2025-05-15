@@ -1,4 +1,4 @@
-# exCaking for Polycrystal Diffraction Strain Analysis
+# MicStEv for Microstructure Evolution from Inverse Pole Figure Images
 ![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/MicStEv_logo.png)
 
 ## Dependencies
