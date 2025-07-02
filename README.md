@@ -1,5 +1,5 @@
 # MicStEv for Microstructure Evolution
-![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/logo.png)
+![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/MicStEv_logo.png)
 
 ## Dependencies
 * MATLAB R2024b
