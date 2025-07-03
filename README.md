@@ -13,7 +13,7 @@ Download 'reference.p', 'reconstruct.p' and 'microstructure.p' to your project f
 reference(grain_size_threshold, scale_resolution)
 
 * grain_size_threshold - Treshold for minimum number of pixels a grain must contain (Default is 0)
-* scale_resolution - Scaling factor for the image resolution, ranging from 0.0 to 1.0 (Default is 1.0)
+* scale_resolution - Scaling factor for pixel spacing used to resample the image (Default is 1.0)
 
 reconstruct(random_seed, number_of_parallel_workers, termination_treshold, crossover_probability, mutation_probability, number_of_elite, mutation_range, mutation_range_expand, mutation_range_shrink, number_of_members)
 
@@ -31,7 +31,7 @@ reconstruct(random_seed, number_of_parallel_workers, termination_treshold, cross
 microstructure(grain_size_threshold, scale_resolution)
 
 * grain_size_threshold - Treshold for minimum number of pixels a grain must contain (Default is 0)
-* scale_resolution - Scaling factor for the image resolution, ranging from 0.0 to 1.0 (Default is 1.0)
+* scale_resolution - Scaling factor for pixel spacing used to resample the image (Default is 1.0)
 
 ## MicStEv Input Files
 Follow the instructions from command window.
