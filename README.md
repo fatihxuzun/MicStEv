@@ -10,22 +10,12 @@ Download 'reference.p', 'reconstruct.p' and 'microstructure.p' to your project f
 /myProjectFolder$
 
 ## exCaking Command Line
-reference(grain_size_threshold, ... <br />
-          scale_resolution)
+reference(grain_size_threshold, scale_resolution)
 
 * grain_size_threshold - Treshold for minimum number of pixels a grain must contain to be included in the analysis (Default is 0)
 * scale_resolution - Scaling factor for the image resolution, ranging from 0.0 to 1.0 (Default is 1.0)
 
-reconstruct(random_seed, ...
-            number_of_parallel_workers
-            termination_treshold
-            crossover_probability
-            mutation_probability
-            number_of_elite, ...
-            mutation_range, ...
-            mutation_range_expand, ...
-            mutation_range_shrink, ...
-            number_of_members)
+reconstruct(random_seed, number_of_parallel_workers, termination_treshold, crossover_probability, mutation_probability, number_of_elite, mutation_range, mutation_range_expand, mutation_range_shrink, number_of_members)
 
 * random_seed - Integer value used to initialize the random number generator for reproducibility (Default is 0)
 * number_of_parallel_workers - Number of processes or threads to use for parallel computation (Default is 1)
@@ -38,8 +28,7 @@ reconstruct(random_seed, ...
 * mutation_range_shrink - Factor by which the mutation range decreases when convergence is detected (Default is 0.99)
 * number_of_members - Total number of individuals in each generation (Default is 9)
 
-microstructure(grain_size_threshold, ...
-               scale_resolution)
+microstructure(grain_size_threshold, scale_resolution)
 
 * grain_size_threshold - Treshold for minimum number of pixels a grain must contain to be included in the analysis (Default is 0)
 * scale_resolution - Scaling factor for the image resolution, ranging from 0.0 to 1.0 (Default is 1.0)
