@@ -24,7 +24,7 @@ reconstruct(random_seed, number_of_parallel_workers, termination_treshold, cross
 * mutation_probability - Probability that a mutation will occur in an individual solution (Default is 0.05)
 * number_of_elite - Number of elites that are preserved unchanged into the next generation (Default is 1)
 * mutation_range - Initial pixelwise range within which gene values can mutate (Default is 0.2)
-* mutation_range_expand - Factor by which the mutation range increases (Default is 1.1)
+* mutation_range_expand - Factor by which the mutation range increases (Default is 1.01)
 * mutation_range_shrink - Factor by which the mutation range decreases (Default is 0.99)
 * number_of_members - Total number of individuals in each generation (Default is 9)
 
@@ -40,9 +40,11 @@ Follow the instructions from command window.
 /myProjectFolder/dStore$
 
 * data.mat
+* best.mat
 * microstructure.mat
+* reference.png
+* microstructure.png
 
 ## Scientific Usage
 Please cite:
 
-doi link to the paper
