@@ -10,7 +10,7 @@ Download 'reference.p', 'reconstruct.p' and 'microstructure.p' to your project f
 /myProjectFolder$
 
 ## exCaking Command Line
-reference(grain_size_threshold, ...
+reference(grain_size_threshold, ... <br />
           scale_resolution)
 
 * grain_size_threshold - Treshold for minimum number of pixels a grain must contain to be included in the analysis (Default is 0)
