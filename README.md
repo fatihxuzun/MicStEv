@@ -1,6 +1,8 @@
 # MicStEv for Microstructure Evolution
 ![logo](https://raw.githubusercontent.com/fatihxuzun/MicStEv/main/MicStEv_logo.png)
 
+MicStEv is a software tool for three-dimensional microstructure reconstruction from inverse pole figure images using an evolutionary artificial intelligence framework. This repository contains the source code, documentation, and experimental data for the MicStEv console application. Please note that this is an ongoing project. The repository will be updated periodically with new developments, improvements to the methodology, and additional features. For more information, please see the citing paper and contact the authors.
+
 ## Dependencies
 * MATLAB R2024b
 
